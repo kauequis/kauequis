@@ -4,4 +4,4 @@ eu sou kauequis
 kauequis/kauequis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![https://tenor.com/bHKMn.gif](link)
+![](https://tenor.com/bHKMn.gif)
